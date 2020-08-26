@@ -1,0 +1,57 @@
+[
+    {
+        "id":0,
+        "repoName":"Auth0 React",
+        "repoDescription":"This project gives the authentication feature to the react app with the help of Auth0 Library.",
+        "link":"https://github.com/patidarparas13/auth0-react"
+    },
+    {
+        "id":1,
+        "repoName":"react-express-frequency-computation-app",
+        "repoDescription":"Frequency computation app built with react and nodejs",
+        "link":"https://github.com/patidarparas13/react-express-frequency-computation-app"
+    },
+    {
+        "id":2,
+        "repoName":"simple-chat-application-firebase",
+        "repoDescription":"It's chat application built on the top of firebase realtime database.",
+        "link":"https://github.com/patidarparas13/simple-chat-application-firebase"
+    },
+    {
+        "id":3,
+        "repoName":"Place Recognition App",
+        "repoDescription":"Flask and Keras is used to make this place recognition app with the help of place365 dataset available.",
+        "link":"https://github.com/patidarparas13/Place-Recognition-App"
+    },
+    {
+        "id":4,
+        "repoName":"Flutter Course App UI",
+        "repoDescription":"Course App UI made with Flutter inspired by Purrweb UI by Dribbble.",
+        "link":"https://github.com/patidarparas13/Flutter-Course-App-UI"
+    },
+    {
+        "id":5,
+        "repoName":"Sentiment Analyzer Tool",
+        "repoDescription":"It analyze the sentiment of the user, whether it is postive or negative.",
+        "link":"https://github.com/patidarparas13/Sentiment-Analyzer-Tool"
+    },
+    {
+        "id":6,
+        "repoName":"Optical recognition of handwritten digits dataset",
+        "repoDescription":"The data set contains images of hand-written digits: 10 classes where each class is a digit.",
+        "link":"https://github.com/patidarparas13/Optical-recognition-of-handwritten-digits-dataset"
+    },
+    {
+        "id":7,
+        "repoName":"WordCloud-Generator",
+        "repoDescription":"It generates the word cloud of different words in the python.",
+        "link":"https://github.com/patidarparas13/WordCloud-Generator"
+    },
+    {
+        "id":8,
+        "repoName":"GithubCardGenerator",
+        "repoDescription":"It generates the card on the basis of the username entered.",
+        "link":"https://github.com/patidarparas13/GithubCardGenerator"
+    }
+
+]
