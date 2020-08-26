@@ -1,21 +1,15 @@
 import React, {Component} from 'react';
-import { NavLink } from 'react-router-dom';
 
 export default class SocialLinks extends Component {
    
     render() {
         return (
             <>
-            <NavLink to="# " className="nav-link "><i className="fa fa-facebook " /></NavLink>
-            <NavLink to="# " className="nav-link "><i className="fa fa-twitter " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-github " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-linkedin " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-medium " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-youtube " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-stack-overflow " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-quora " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-whatsapp " /></NavLink>
-      <NavLink to="# " className="nav-link "><i className="fa fa-instagram " /></NavLink>
+            <a href="https://www.facebook.com/paras.patidar.923/" className="nav-link "><i className="fa fa-facebook " /></a>
+            <a href="https://twitter.com/patidarparas13" className="nav-link "><i className="fa fa-twitter " /></a>
+      <a href="https://github.com/patidarparas13" className="nav-link "><i className="fa fa-github " /></a>
+      <a href="https://www.linkedin.com/in/patidarparas13/" className="nav-link "><i className="fa fa-linkedin " /></a>
+      <a href="https://medium.com/@patidarparas13" className="nav-link "><i className="fa fa-medium " /></a>
             </>
         )
     }

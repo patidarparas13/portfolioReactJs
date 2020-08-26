@@ -1,9 +1,7 @@
 import React, {Component} from 'react'
 import Navigation from './Navigation'
 import Footer from './Footer'
-import SocialLinks from './SocialLinks'
-import { NavLink } from 'react-router-dom';
-import {Container, Row, Col,Button} from 'react-bootstrap';
+import {Container, Row, Col} from 'react-bootstrap';
 
 
 class About extends Component {
